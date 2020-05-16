@@ -1,0 +1,8 @@
+GIT COOL COMMANDS
+
+git log --pretty=format:"The author of %h was %Cblue%an, %ar%nThe title was >> %Cgreen%s"
+
+The author of 21b1865 was Allen Jmnz, 4 weeks ago
+The title was >> Bug fixed - New user didn't display on UI
+The author of 3eb5633 was Allen Jmnz, 4 weeks ago
+The title was >> Full Author CRUD Management
